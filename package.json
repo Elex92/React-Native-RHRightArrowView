@@ -1,0 +1,26 @@
+{
+  "name": "react-native-rhrightarrowview",
+  "version": "0.0.2",
+  "description": "瑞昊RN项目常用右侧箭头组件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elex92/React-Native-RHRightArrowView.git"
+  },
+  "keywords": [
+    "ruihao",
+    "rn",
+    "react",
+    "react-native",
+    "rightarrowview"
+  ],
+  "author": "Elex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elex92/React-Native-RHRightArrowView/issues"
+  },
+  "homepage": "https://github.com/Elex92/React-Native-RHRightArrowView#readme"
+}
